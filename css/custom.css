@@ -9,6 +9,27 @@
  * Changes to this files will be ignored by GIT. *
  *****************************************************/
 
- body {
- 	
- }
+body {
+  color: #FFF;
+}
+
+/** Date/Time **/
+.module-content .date {
+  margin-bottom: 20px;
+}
+.module-content .time span {
+  margin-left: 5px;
+}
+
+/** Current Weather **/
+.currentweather .module-content {
+  margin-bottom: 20px;
+}
+.currentweather .module-content .medium {
+  margin-bottom: 20px;
+}
+
+/** Weather Forecast **/
+.module-content .weatherforecast {
+
+}
