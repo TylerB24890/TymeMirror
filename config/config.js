@@ -62,7 +62,8 @@ var config = {
 			config: {
 				location: "Denver, CO",
 				locationID: "5419384",  //ID from http://www.openweathermap.org/help/city_list.txt
-				appid: "12cd12d12d56455a4f070b9e14061ea9"
+				appid: "12cd12d12d56455a4f070b9e14061ea9",
+				onlyTemp: true
 			}
 		},
 		{
