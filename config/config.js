@@ -98,6 +98,14 @@ var config = {
 				showPublishDate: true
 			}
 		},
+		{
+			module: "MMM-GoogleAssitant",
+			position: "top_right",
+			config: {
+				maxWidth: "100%",
+				header: ""
+			}
+		},
 	]
 
 };
