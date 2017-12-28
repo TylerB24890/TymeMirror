@@ -22,7 +22,7 @@ body {
   z-index: 999;
   background: url('bg.png') no-repeat center bottom;
   background-size: 100%;
-  opacity: .2;
+  opacity: .1;
 }
 
 /** Date/Time **/

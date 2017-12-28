@@ -12,21 +12,25 @@ Module.register("compliments", {
 	defaults: {
 		compliments: {
 			anytime: [
-				"What's cookin' good lookin'?"
+				"What's cookin' good lookin'?",
+				"The time is now.",
+				"Party on, Wayne."
 			],
 			morning: [
-				"Good morning, Ty!",
-				"Kick some ass today.",
-				"You're looking good today"
+				"Top o' the morning to ya!",
+				"Get out there and kick some ass.",
+				"You're looking good today."
 			],
 			afternoon: [
-				"Good afternoon, Ty.",
+				"Good afternoon!",
 				"How's your day going?",
-				"Kicking ass & taking names."
+				"You look fantastic."
 			],
 			evening: [
+				"The day's over.",
+				"Worry about it tomorrow.",
 				"What's on the agenda for tonight?",
-				"Sleep well tonight!",
+				"Sleep well!",
 			]
 		},
 		updateInterval: 30000,
