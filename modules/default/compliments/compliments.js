@@ -13,29 +13,29 @@ Module.register("compliments", {
 		compliments: {
 			anytime: [
 				"What's cookin' good lookin'?",
-				"The time is now.",
-				"Party on, Wayne."
+				"Party on, Wayne.",
+				"Ask Google about the Weather",
+				"I'm not a touch screen.",
+				"I need some time to reflect...",
+				"Mirror Mirror on the wall...",
 			],
 			morning: [
 				"Top o' the morning to ya!",
 				"Get out there and kick some ass.",
-				"You're looking good today."
+				"You're looking good today.",
+				"Morning, Sunshine!"
 			],
 			afternoon: [
 				"Good afternoon!",
 				"How's your day going?",
-				"You look fantastic."
 			],
 			evening: [
-				"The day's over.",
-				"Worry about it tomorrow.",
 				"What's on the agenda for tonight?",
-				"Sleep well!",
 			]
 		},
-		updateInterval: 30000,
+		updateInterval: 20000,
 		remoteFile: null,
-		fadeSpeed: 4000
+		fadeSpeed: 2000
 	},
 
 	// Set currentweather from module

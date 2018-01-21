@@ -11,7 +11,7 @@
 
 body {
   color: #FFF;
-} 
+}
 
 .bg-image {
   position: fixed;
@@ -20,7 +20,7 @@ body {
   left: 0;
   right: 0;
   z-index: 999;
-  background: url('bg.png') no-repeat center bottom;
+  background: url('bg.jpg') no-repeat center center;
   background-size: 100%;
   opacity: .1;
 }

@@ -38,20 +38,6 @@ var config = {
 			position: "top_left",
 			timezone: "America/Denver",
 		},
-		/*
-		{
-			module: "calendar",
-			header: "Ty's Agenda",
-			position: "top_left",
-			config: {
-				calendars: [
-					{
-						symbol: "user-circle-o ",
-						url: "https://calendar.google.com/calendar/ical/tylerb.media%40gmail.com/public/basic.ics",
-					},
-				]
-			}
-		},*/
 		{
 			module: "compliments",
 			position: "lower_third"
@@ -86,8 +72,8 @@ var config = {
 						url: "http://feeds.feedburner.com/TechCrunchIT"
 					},
 					{
-						title: "Smashing Magazine",
-						url: "https://www.smashingmagazine.com/feed/"
+						title: "ESPN",
+						url: "http://www.espn.com/espn/rss/news"
 					},
 					{
 						title: "New York Times",
